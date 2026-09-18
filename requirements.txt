@@ -1,0 +1,14 @@
+torch
+torch_geometric
+pandas
+numpy
+scikit-learn
+networkx
+plotly
+pyvis
+wandb
+fastapi
+uvicorn
+matplotlib
+seaborn
+xgboost
